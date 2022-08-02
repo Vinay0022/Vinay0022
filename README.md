@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinay</h1>
-<h3 align="center">I'm a tech enthusiastic.</h3>
+<h2 align="center">I’m an Open-Source enthusiast and a junior pursuing my Bachelors in Electronics Engineering.</h2>
+<h2 align="center">I am passionate about Web Dev, DevOps, and I enjoy learning new things.</h2>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 
