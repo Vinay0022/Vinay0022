@@ -6,6 +6,7 @@
 
 - 🌱 I’m currently working on **building projects.**
 - 🌱 I’m currently learning **Javascript,MERN Stack Development and DSA**
+- - 📫 How to reach me **vinu031995@gmail.com**
 
 
 
