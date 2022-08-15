@@ -4,8 +4,10 @@
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 
+- 🌱 I’m currently working on **building projects.**
+- 🌱 I’m currently learning **Javascript,MERN Stack Development and DSA**
 
-- 🌱 I’m currently learning **Javascript**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
