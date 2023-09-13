@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinay</h1>
-<h3 align="center">I’m an Open-Source enthusiast and I'm pursuing my Bachelors in Electronics Engineering.</h3>
+<h3 align="center">I’m an Tech enthusiast and I'm pursuing my Bachelors in Electronics Engineering.</h3>
 <h3 align="center">I am passionate about WebDev, DevOps, and I enjoy learning new things.</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"> -->
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/D2H0hPltOdYAAAAd/golden-boy-fake-keyboard-programing-coding-paper-book.gif">
