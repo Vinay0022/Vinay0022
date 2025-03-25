@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vinay</h1>
-<h3 align="center">I’m a Tech enthusiast and I'm pursuing my Bachelors in Electronics Engineering.</h3>
-<h3 align="center">I am passionate about WebDev, DevOps, and I enjoy learning new things.</h3>
+<h3 align="center">I’m a Tech enthusiast and I have completed my Bachelors of Engineering in Electronics.</h3>
+<h3 align="center">I am passionate about WebDev, DevOps, Cloud and Linux. I enjoy learning new things.</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"> -->
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/D2H0hPltOdYAAAAd/golden-boy-fake-keyboard-programing-coding-paper-book.gif">
 
 
 - 🌱 I’m currently working on **building projects.**
-- 🌱 I’m currently learning **Javascript,MERN Stack Development and DSA**
+- 🌱 I’m currently learning **Java, Spring, SpringBoot, React, and DSA**
 - - 📫 How to reach me **vinu031995@gmail.com**
 
 
